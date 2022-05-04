@@ -1,3 +1,10 @@
+# README
+
+A simple React project showing a few restaurants in Kagurazaka, Tokyo.
+
+![This is an image](https://repository-images.githubusercontent.com/488588822/0785d66c-e638-473c-89f4-7a89ef1bb5d4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
